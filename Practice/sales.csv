@@ -1,1 +1,13 @@
-
+date,city,sales,customer_count
+Jan 21,2019,Bangalore,40,20
+Jan 21,2019,Pune,50,25
+Jan 21,2019,Chennai,60,40
+Jan 21,2018,Bangalore,55,30
+Jan 21,2018,Pune,55,30
+Jan 21,2018,Chennai,40,25
+Jan 22,2018,Bangalore,40,25
+Jan 22,2018,Pune,50,30
+Jan 22,2019,Chennai,60,40
+Jan 22,2019,Bangalore,55,30
+Jan 22,2019,Pune,55,23
+Jan 22,2019,Chennai,40,23
