@@ -1,0 +1,10 @@
+1)How to find the maximum value in each row of a numpy array 2d?
+2) How to find the duplicate records in a numpy array?
+3)How to drop all missing values from a numpy array?
+4)How to find the count of unique values in a numpy array?
+5)How to replace all missing values with 0 in a numpy array?
+6)How to find if a given array has any null values?
+7)How to drop rows that contain a missing value from a numpy array?
+8)How to find the position of missing values in numpy array?
+9)How to reverse the rows of a 2D array?
+10)How to swap two columns in a 2d numpy array?
