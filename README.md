@@ -1,22 +1,7 @@
+# Feature Engineering
 Feature engineering, the process creating new input features for machine learning, is one of the most effective ways to improve predictive models.
 
-Coming up with features is difficult, time-consuming, requires expert knowledge. “Applied machine learning” is basically feature engineering. ~ Andrew Ng
-
-Through feature engineering, you can isolate key information, highlight patterns, and bring in domain expertise.
-
-
-Free: Data Science Career Guide
-
-Learn how to land a high-paying job in data science and future-proof your career with the most efficient roadmap to learning DS & ML for busy professionals.
-
-First Name
-Email
-Send My Download
-Unsurprisingly, it can be easy to get stuck because feature engineering is so open-ended.
-
-In this guide, we’ll discuss 20 best practices and heuristics that will help you navigate feature engineering.
-
-What is Feature Engineering?
+#### What is Feature Engineering?
 Feature engineering is an informal topic, and there are many possible definitions. The machine learning workflow is fluid and iterative, so there’s no one “right answer.”
 
 In a nutshell, we define feature engineering as creating new features from your existing ones to improve model performance.
@@ -41,7 +26,7 @@ Again, this is simply our categorization. Reasonable data scientists may disagre
 
 With those disclaimers out of the way, let’s dive into the best practices and heuristics!
 
-Indicator Variables
+### Indicator Variables
 The first type of feature engineering involves using indicator variables to isolate key information.
 
 Now, some of you may be wondering, “shouldn’t a good algorithm learn the key information on its own?”
