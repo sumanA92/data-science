@@ -1,4 +1,4 @@
-## Integrating a Machine Learning Model into a Web app
+# Integrating a Machine Learning Model into a Web app
 
 In this post I will go over how to expose a machine learning model in a web application. Here is the technology stack in order to expose a machine learning model from Python into a web application.
 
